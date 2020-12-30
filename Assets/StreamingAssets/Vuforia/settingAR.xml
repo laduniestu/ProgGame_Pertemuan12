@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marker3" size="50.000000 23.908133" />
+    <ImageTarget name="logo_dragon" size="50.000000 50.000000" />
+    <ImageTarget name="logo_naga" size="50.000000 28.888889" />
+    <ImageTarget name="garuda" size="50.000000 54.208332" />
+    <ImageTarget name="mario_logo" size="50.000000 50.000000" />
+    <ImageTarget name="logo_polinema" size="50.000000 50.417660" />
+  </Tracking>
+</QCARConfig>
